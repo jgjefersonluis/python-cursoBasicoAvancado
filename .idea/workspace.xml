@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b913f7b-a259-4f18-b163-8ad6354c4e99" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao3-pythonintermediario/aula06-conjuntos/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao3-pythonintermediario/aula06-conjuntos/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao3-pythonintermediario/aula14-count/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao3-pythonintermediario/aula14-count/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,18 +27,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/secao3-pythonintermediario/aula01-funcoes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/secao3-pythonintermediario/aula19-reduce" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula01-funcoes" />
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\aula21-splitjoinenumerate" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula01-funcoes" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao2-pythonbasico" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula19-reduce" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula18-filter" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula01-funcoes" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\aula21-splitjoinenumerate" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula13-zip" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula21-tratandoexcecoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula13-zip/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula21-tratandoexcecoes/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula13-zip/exercicio-somaduaslistas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula22-tryexception" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula13-zip/exercicio-somaduaslistas/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula22-tryexception/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula12-exerciciosgeradoresiteradores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula20-tryexception" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula12-exerciciosgeradoresiteradores/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula20-tryexception/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mapeamentoidade (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula10-geradoresinteradores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula19-reduce" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula10-geradoresinteradores/main3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula19-reduce/mapeamentoidade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mapeamentopreco (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula10-geradoresinteradores" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula19-reduce" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula10-geradoresinteradores/main4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula19-reduce/mapeamentopreco.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,8 +167,8 @@
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.main4" />
-        <item itemvalue="Python.main3" />
+        <item itemvalue="Python.mapeamentoidade (1)" />
+        <item itemvalue="Python.mapeamentopreco (2)" />
       </list>
     </recent_temporary>
   </component>
