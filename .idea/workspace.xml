@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b913f7b-a259-4f18-b163-8ad6354c4e99" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secao3-pythonintermediario/aula14-count/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/secao3-pythonintermediario/aula14-count/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/secao3-pythonintermediario/aula24-criarmodulopython/aplicativo.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1cxZwo1uNgeoLcVidWN9BAwLiFx" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -31,17 +34,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula01-funcoes" />
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao2-pythonbasico" />
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula19-reduce" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula18-filter" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula01-funcoes" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\aula21-splitjoinenumerate" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula01-funcoes" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao2-pythonbasico" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -56,8 +59,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.mainjsonler">
+    <configuration name="main4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula21-tratandoexcecoes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula26-criandolendoapagandoarquivo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula21-tratandoexcecoes/main.py" />
+      <option name="SCRIPT_NAME" value="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula26-criandolendoapagandoarquivo\mainescrevendo4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula22-tryexception" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula26-criandolendoapagandoarquivo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula22-tryexception/main.py" />
+      <option name="SCRIPT_NAME" value="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula26-criandolendoapagandoarquivo\mainescrevendo5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mainjson" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula20-tryexception" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula26-criandolendoapagandoarquivo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula20-tryexception/main.py" />
+      <option name="SCRIPT_NAME" value="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula26-criandolendoapagandoarquivo\mainjsonescrever.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mapeamentoidade (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mainjsonler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula19-reduce" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula26-criandolendoapagandoarquivo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula19-reduce/mapeamentoidade.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula26-criandolendoapagandoarquivo/mainjsonler.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mapeamentopreco (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mainlendo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula19-reduce" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula26-criandolendoapagandoarquivo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula19-reduce/mapeamentopreco.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula26-criandolendoapagandoarquivo/mainlendo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.mapeamentoidade (1)" />
-        <item itemvalue="Python.mapeamentopreco (2)" />
+        <item itemvalue="Python.mainjsonler" />
+        <item itemvalue="Python.mainjson" />
+        <item itemvalue="Python.mainlendo" />
+        <item itemvalue="Python.main5" />
+        <item itemvalue="Python.main4" />
       </list>
     </recent_temporary>
   </component>
