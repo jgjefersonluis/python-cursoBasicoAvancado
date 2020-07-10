@@ -33,17 +33,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula01-funcoes" />
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao2-pythonbasico" />
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula28-funcaodecoradoras" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula19-reduce" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula18-filter" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula01-funcoes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula31-desafioCNPJ\validar" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula01-funcoes" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao2-pythonbasico" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -58,8 +59,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.decoradordecorado2">
-    <configuration name="decora" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,53 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula28-funcaodecoradoras" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula29-parametrosmutaveisfuncao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula28-funcaodecoradoras/decora.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="decora2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cursopython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula28-funcaodecoradoras" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula28-funcaodecoradoras/decora2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="decora3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cursopython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula28-funcaodecoradoras" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula28-funcaodecoradoras/decora3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula29-parametrosmutaveisfuncao/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,13 +123,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cursopython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula31-desafioCNPJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula31-desafioCNPJ\validar\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cursopython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao3-pythonintermediario/aula30-exercicioundoredo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao3-pythonintermediario/aula30-exercicioundoredo/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.decoradordecorado2" />
         <item itemvalue="Python.decoradordecorado" />
-        <item itemvalue="Python.decora3" />
-        <item itemvalue="Python.decora2" />
-        <item itemvalue="Python.decora" />
       </list>
     </recent_temporary>
   </component>
