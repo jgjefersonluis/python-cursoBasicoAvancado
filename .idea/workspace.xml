@@ -59,8 +59,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (5)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.contexto">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula09-composicao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula14-poliformismo-de-sobreposicao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula09-composicao/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula14-poliformismo-de-sobreposicao/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="contexto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula10-heranca" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula18-gerenciador-de-contexto" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula10-heranca/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula18-gerenciador-de-contexto/contexto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="magica" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula11-sobreposicao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula17-metodos-magicos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula11-sobreposicao/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula17-metodos-magicos/magica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula12-heranca-multipla" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula15-excecoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula12-heranca-multipla/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula15-excecoes/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sobrecarga" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula13-classes-abstratas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula16-sobrecarga" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula13-classes-abstratas/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula16-sobrecarga/sobrecarga.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.contexto" />
+        <item itemvalue="Python.magica" />
+        <item itemvalue="Python.sobrecarga" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
