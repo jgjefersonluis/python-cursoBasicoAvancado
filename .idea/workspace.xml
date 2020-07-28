@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -28,6 +29,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/secao4-poo/aula20-meta-classes" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -59,8 +61,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.python_enum">
-    <configuration name="calculo-ipv4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.listacomdias">
+    <configuration name="calendario1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula23-desafio-calculoIPV4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula01-datatime" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula23-desafio-calculoIPV4/calculo-ipv4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula01-datatime/calendario1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="datas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula21-docstring-documentacao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula01-datatime" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula21-docstring-documentacao/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula01-datatime/datas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listacomdias" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula22-desafio-sistemabancario/sistema" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula01-datatime" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula22-desafio-sistemabancario/sistema/main.py" />
+      <option name="SCRIPT_NAME" value="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao5-modulos\aula01-datatime\listaquantosdiastemosmeses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_dataclasses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula24-dataclasses" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula01-datatime" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula24-dataclasses/python_dataclasses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula01-datatime/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_enum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="minha_lista" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula25-enum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao4-poo/aula26-iterator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula25-enum/python_enum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao4-poo/aula26-iterator/minha_lista.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.python_enum" />
-        <item itemvalue="Python.python_dataclasses" />
-        <item itemvalue="Python.calculo-ipv4" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.listacomdias" />
+        <item itemvalue="Python.calendario1" />
+        <item itemvalue="Python.datas" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.minha_lista" />
       </list>
     </recent_temporary>
   </component>
