@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cursopython" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -31,22 +34,22 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/secao5-modulos/aula08-template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/secao5-modulos/aula13-threads" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao5-modulos\aula13-threads" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao5-modulos\aula08-template" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao5-modulos\aula06-csv" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao5-modulos\aula05-json" />
+      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao5-modulos\aula04-ffmpeg-conversorvideo\ffmpeg" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula31-desafioCNPJ\validar" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao3-pythonintermediario\aula01-funcoes" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao2-pythonbasico" />
       <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao5-modulos\aula08-template" />
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao5-modulos\aula06-csv" />
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao5-modulos\aula05-json" />
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao5-modulos\aula04-ffmpeg-conversorvideo\ffmpeg" />
-      <recent name="C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao4-poo\aula20-meta-classes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -61,8 +64,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.minhathread">
+    <configuration name="join" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula11- web-scraping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula14-threading-basico" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula11- web-scraping/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula14-threading-basico/join.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="live" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula06-csv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula14-threading-basico" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula06-csv/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula14-threading-basico/live.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lowlevel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula09-compacta" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula14-threading-basico" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula09-compacta/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula14-threading-basico/lowlevel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="minhathread" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula07-rd" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula14-threading-basico" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula07-rd/rd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula14-threading-basico/minhathread.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="named" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula08-template" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/secao5-modulos/aula14-threading-basico" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula08-template/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secao5-modulos/aula14-threading-basico/named.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.temp" />
-        <item itemvalue="Python.rd" />
-        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.minhathread" />
+        <item itemvalue="Python.lowlevel" />
+        <item itemvalue="Python.named" />
+        <item itemvalue="Python.live" />
+        <item itemvalue="Python.join" />
       </list>
     </recent_temporary>
   </component>
