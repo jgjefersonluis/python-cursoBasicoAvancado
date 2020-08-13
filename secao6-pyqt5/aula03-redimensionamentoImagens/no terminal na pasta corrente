@@ -1,0 +1,8 @@
+Converte o arquivo grafico para codigo em python
+
+Caminho no meu PC
+C:\JefersonWorkSpace2020\python\CursoDePythonDoBasicoAvancado\cursopython\secao6-pyqt5\aula03-redimensionamentoImagens
+
+No terminal
+pyuic5 desing.ui -o design.py
+
